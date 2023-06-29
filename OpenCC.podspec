@@ -1,13 +1,13 @@
 Pod::Spec.new do |s|
   s.name = "OpenCC"
-  s.version = "0.3.1"
+  s.version = "0.3.2"
   s.summary = "Open Chinese Convert"
   s.description = <<-DESC
 The Pod spec wraps OpeCC (Open Chinese Convert) that helps you to convert Traditianl Chinese
 to Simplified Chinese, and vise versa.
                        DESC
 
-  s.homepage = "https://github.com/zonble/OpenCC"
+  s.homepage = "https://github.com/SPHTech/OpenCC"
   s.license = { :type => "MIT", :file => "LICENSE" }
   s.author = { "zonble" => "zonble@gmail.com" }
   s.source = { :git => "https://github.com/SPHTech/OpenCC.git", :tag => s.version.to_s, :submodules => true }
