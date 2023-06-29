@@ -10,7 +10,7 @@ to Simplified Chinese, and vise versa.
   s.homepage = "https://github.com/zonble/OpenCC"
   s.license = { :type => "MIT", :file => "LICENSE" }
   s.author = { "zonble" => "zonble@gmail.com" }
-  s.source = { :git => "https://github.com/zonble/OpenCC.git", :tag => s.version.to_s, :submodules => true }
+  s.source = { :git => "https://github.com/SPHTech/OpenCC.git", :tag => s.version.to_s, :submodules => true }
   s.social_media_url = "https://twitter.com/zonble"
 
   s.ios.deployment_target = "11.0"
