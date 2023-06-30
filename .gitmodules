@@ -1,4 +1,3 @@
 [submodule "SwiftOpenCC"]
 	path = SwiftOpenCC
 	url = https://github.com/SPHTech/SwiftyOpenCC.git
-	branch = bugfix/support_xcode_14.3.1
